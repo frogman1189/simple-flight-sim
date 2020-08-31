@@ -7,8 +7,14 @@ Requires jogl and gluegen-rt
 
 
 Controls:
+
  UP/DOWN ARROWS: Increase/Decrease pitch
+ 
  LEFT/RIGHT ARROWS: Increase/Decrease roll
+ 
+ 
  SPACE BAR: Reset glider height and speed
+ 
  MOUSEDOWN+DRAG: Change camera angle
+ 
  MOUSEWHEEL: Zoom in/out
